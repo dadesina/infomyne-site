@@ -1,7 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
@@ -19,33 +18,44 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "EXIN"
+  organization_url = "https://www.exin.com/"
+  title = "EXIN Agile Scrum"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "design studio.jpg"
+  date_start = "2019-02-22"
+  date_end = ""
+  description = "Accredited Training Organization"
+
+[[item]]
+  organization = "EXIN"
+  organization_url = "https://www.exin.com/"
+  title = "EXIN DevOps Foundation Course"
+  url = ""
+  certificate_url = "design studio.jpg"
+  date_start = "2019-02-22"
+  date_end = ""
+  description = "Accredited Training Organization"
+
+[[item]]
+  organization = "City of New York"
+  organization_url = "https://www1.nyc.gov/"
+  title = "Certified Minority Business Enterprise"
+  url = ""
+  certificate_url = "design studio.jpg"
   date_start = "2018-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "Port Authority of New York and New Jersey"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  title = "MWBE"
+  url = ""
   certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
   description = ""
+  
 
 +++
