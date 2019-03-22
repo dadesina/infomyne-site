@@ -3,7 +3,7 @@
 widget = "featurette"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Skills"
+title = "What we do"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -42,13 +42,13 @@ weight = 30
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Personalized Learning and Training Development"
-  description = "**Continuous learning** and acquiring new knowledge are essential skills to staying relevant. Let's show you how we design effective, engaging and **personalized training**."
+  name = "Personalized Learning and Training"
+  description = "**Continuous learning** and acquiring new knowledge are essential skills to staying relevant. We design effective, engaging and **personalized training**."
   
 [[feature]]
-  icon = "project-diagram"
+  icon = "hands-helping"
   icon_pack = "fas"
-  name = "Project Management"
-  description = "10%"
+  name = "Partnerships"
+  description = "We know we can't do it alone! We form strategic partnerships with innovative Organizations that share our values and vision."
 
 +++
