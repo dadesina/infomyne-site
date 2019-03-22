@@ -40,10 +40,10 @@ weight = 30
   description = "We leverage platforms that help us deliver **Web or Mobile Apps** in a fraction of the time and cost you think it would take!"
   
 [[feature]]
-  icon = "project-diagram"
+  icon = "users"
   icon_pack = "fas"
-  name = "Project Management"
-  description = "10%"
+  name = "Learning and Training"
+  description = "We believe continuous learning and acquiring knowledge are critical skills that will enable people stay relevant. Let's show you how we design effective, engaging and personalized training."
   
 [[feature]]
   icon = "project-diagram"
