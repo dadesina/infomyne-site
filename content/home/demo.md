@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Demos"
+title = ""
 subtitle = ""
 
 [design]
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/stand_out.png"  # Name of image in `static/img/`.
+  image = "headers/stand_out_2.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -44,6 +44,6 @@ subtitle = ""
 +++
 
 
-{{% alert note %}}
-“*It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change - Charles Darwin*”.
-{{% /alert %}}
+#{{% alert note %}}
+#“*It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change - Charles Darwin*”.
+#{{% /alert %}}
