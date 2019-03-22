@@ -25,12 +25,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Learning and Development"
+    tag = "Learning"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Digital Experience"
+    tag = "Content"
+
+  [[content.filter_button]]
+    name = "Ecommerce and Marketplaces"
+    tag = "ecommerce, marketplaces"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
