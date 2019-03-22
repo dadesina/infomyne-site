@@ -42,8 +42,8 @@ weight = 30
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Learning and Training"
-  description = "We believe continuous learning and acquiring knowledge are critical skills that will enable people stay relevant. Let's show you how we design effective, engaging and personalized training."
+  name = "Personalized Learning and Training Development"
+  description = "**Continuous learning** and acquiring new knowledge are essential skills to staying relevant. Let's show you how we design effective, engaging and **personalized training**."
   
 [[feature]]
   icon = "project-diagram"
