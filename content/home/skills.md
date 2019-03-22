@@ -48,7 +48,7 @@ weight = 30
 [[feature]]
   icon = "hands-helping"
   icon_pack = "fas"
-  name = "Partnerships"
-  description = "We know we can't do it alone! We form strategic partnerships with innovative Organizations that share our values and vision."
+  name = "Partnerships and Collaborations"
+  description = "We know we can't do it alone! We form strategic **partnerships** with innovative Organizations that share our **values** and **vision**."
 
 +++
