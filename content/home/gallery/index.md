@@ -4,7 +4,7 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Gallery"
+title = "Our Partners"
 subtitle = ""
 
 # Order that this section will appear in.
