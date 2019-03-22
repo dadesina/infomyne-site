@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "dadesina@infomynetechnologies.com"
-phone = "732 720 5437"
+phone = "848 240 4035"
 address = "102 Nutmeg Ln. Holmdel, NJ 07733, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -59,14 +59,14 @@ address = "102 Nutmeg Ln. Holmdel, NJ 07733, USA"
 #                  Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "calendly.com/infomyne"
+appointment_url = "https://calendly.com/infomyne"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/InfomyneTech"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:dadesina1?call"},
-  {icon = "linkedIn", icon_pack = "fas", name = "Linked in", link = "https://www.linkedin.com/in/dayo-adesina-3386531/"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linked in", link = "https://www.linkedin.com/in/dayo-adesina-3386531/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
